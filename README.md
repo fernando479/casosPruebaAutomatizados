@@ -13,7 +13,7 @@
 
 
 ## Tener en consideracion para la pruebas
-1) Las pruebas pasan cuando no aparece ningún error en la consola
-2) La **segunda prueba** tiene exito solo la primera vez que se ejecuta. Al ejecutarse por segunda vez la **prueba no pasa** debido a que el producto que se ingresa ya existe en el sistema (el sistema no permite ingresar un producto ya existente)
+1) Las pruebas pasan cuando no aparece ningún error en la consola.
+2) La **segunda prueba** tiene exito solo la primera vez que se ejecuta. Al ejecutarse por segunda vez la **prueba no pasa** debido a que el producto que se ingresa ya existe en el sistema (el sistema no permite ingresar un producto ya existente).
 
 
