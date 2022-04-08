@@ -1,4 +1,5 @@
-# Casos de pruebas automatizados
+# Casos de pruebas automatizados para el repositorio https://github.com/matiasbarram/INFO282-Implementacion/tree/front/front
+
 
 
 ## Información sobre las pruebas:
