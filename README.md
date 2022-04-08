@@ -1,5 +1,4 @@
 # Casos de pruebas automatizados
-Casos de pruebas
 
 ## Prerequisitos para correr las pruebas:
 - Tener instalado node en la maquina (https://nodejs.org/es/)
@@ -11,3 +10,9 @@ Casos de pruebas
 3) Ingresar a la carpeta test
 4) Ejecutar el siguiente codigo para la primera prueba: ```node firstTest.js ```
 5) Ejecutar el siguiente codigo para la segunda prueba: ```node secondTest.js```
+
+
+## Tener en consideracion para la pruebas
+1) Las pruebas pasan cuando no aparece ningún error en la consola
+2) Para la *segunda prueba* 
+
