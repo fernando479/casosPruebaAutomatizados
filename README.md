@@ -1,6 +1,6 @@
 # Casos de pruebas automatizados
 
-## Prerequisitos para correr las pruebas:
+## Prerrequisitos para correr las pruebas:
 - Tener instalado node en la maquina (https://nodejs.org/es/)
 
 ## Como correr las pruebas:
@@ -12,7 +12,7 @@
 5) Ejecutar el siguiente codigo para la segunda prueba: ```node secondTest.js```
 
 
-## Tener en consideracion para la pruebas
+## Tener en consideracion para la pruebas:
 1) Las pruebas pasan cuando no aparece ningún error en la consola.
 2) La **segunda prueba** tiene exito solo la primera vez que se ejecuta. Al ejecutarse por segunda vez la **prueba no pasa** debido a que el producto que se ingresa ya existe en el sistema (el sistema no permite ingresar un producto ya existente).
 
