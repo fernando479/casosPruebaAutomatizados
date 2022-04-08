@@ -12,7 +12,7 @@ Las pruebas automatizadas implementadas son las pruebas con id 2 y 4 del siguien
 ## Como correr las pruebas:
 
 1) Clonar este proyecto github en su maquina.
-2) Instalar depencias (npm install)
+2) Instalar depencias (``` npm install ```)
 3) Ingresar a la carpeta test.
 4) Ejecutar el siguiente codigo para la primera prueba: ```node firstTest.js ```
 5) Ejecutar el siguiente codigo para la segunda prueba: ```node secondTest.js```
@@ -20,4 +20,4 @@ Las pruebas automatizadas implementadas son las pruebas con id 2 y 4 del siguien
 
 ## Tener en consideracion para la pruebas:
 1) Las pruebas pasan cuando no aparece ningún error en la consola.
-2) La **segunda prueba** tiene exito solo la primera vez que se ejecuta. Al ejecutarse por segunda vez la **prueba no pasa** debido a que el producto que se ingresa ya se ingreso al sistema al ejecutar por priemra vez el test (el sistema no permite ingresar un producto ya existente).
+2) La **segunda prueba** tiene exito solo la primera vez que se ejecuta. Al ejecutarse por segunda vez la **prueba no pasa** debido a que el producto que se quiere agregar ya se ingresó al sistema al ejecutar por priemera vez la prueba (el sistema no permite ingresar un producto ya existente, este es un supuesta en la prueba).
