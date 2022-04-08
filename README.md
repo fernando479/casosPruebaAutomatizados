@@ -8,6 +8,7 @@ Las pruebas automatizadas implementadas son las pruebas con id 2 y 4 del siguien
 
 ## Prerrequisitos para correr las pruebas:
 - Tener instalado node en la maquina (https://nodejs.org/es/)
+- Tener instalado Chrome en la maquina.
 
 ## Como correr las pruebas:
 
