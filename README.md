@@ -1,12 +1,10 @@
 # casosPruebaAutomatizados
 Casos de pruebas
 
-
-## Como correr las pruebas:
-
-# Prerequisitos:
+## Prerequisitos para correr las pruebas:
 - Tener instalado node en la maquina (https://nodejs.org/es/)
 
+## Como correr las pruebas:
 
 1) Clonar este github
 2) instalar depencias (npm install)
