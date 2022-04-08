@@ -1,10 +1,11 @@
-# Casos de pruebas automatizados para el repositorio https://github.com/matiasbarram/INFO282-Implementacion/tree/front/front
-
+# Casos de pruebas automatizados
 
 
 ## Información sobre las pruebas:
 
-Las pruebas automatizadas implementadas son las pruebas con id 2 y 4 del siguiente archivo: https://docs.google.com/spreadsheets/d/1THldIyBkLkNPiowI5KlkxHXDWhEEz9094cBU9fihxQg/edit#gid=812846169
+Estas son las pruebas para el proyecto https://github.com/matiasbarram/INFO282-Implementacion/tree/front/front
+
+Las pruebas automatizadas implementadas son las pruebas con id 2 e id 4 del siguiente archivo: https://docs.google.com/spreadsheets/d/1THldIyBkLkNPiowI5KlkxHXDWhEEz9094cBU9fihxQg/edit#gid=812846169
 
 
 ## Prerrequisitos para correr las pruebas:
