@@ -25,7 +25,7 @@ async function example(){
     await driver.findElement(By.xpath("//*[@id='app']/div[2]/div/div/div/div/div/div/div/div/div/div[2]/main/div/form/div/div[4]/div[1]/label/div/div[1]/div/input")).sendKeys("Alcohol");
     await driver.findElement(By.xpath("//*[@id='app']/div[2]/div/div/div/div/div/div/div/div/div/div[2]/main/div/form/div/div[4]/div[2]/label/div/div[1]/div/input")).sendKeys("Botella");
     await driver.findElement(By.xpath("//*[@id='app']/div[2]/div/div/div/div/div/div/div/div/div/div[2]/main/div/form/div/div[5]/label/div/div[1]/div/input")).sendKeys("Ron madero 750");
-    await driver.findElement(By.xpath("//*[@id='app']/div[2]/div/div/div/div/div/div/div/div/div/div[2]/main/div/form/div/div[6]/label/div/div[1]/div/input")).sendKeys("109876543210");
+    await driver.findElement(By.xpath("//*[@id='app']/div[2]/div/div/div/div/div/div/div/div/div/div[2]/main/div/form/div/div[6]/label/div/div[1]/div/input")).sendKeys("10987654321012");
     
     const boton = await driver.findElement(By.xpath("//span[contains(text(),'Agregar')]"));
     boton.click();
