@@ -16,4 +16,7 @@
 1) Las pruebas pasan cuando no aparece ningún error en la consola.
 2) La **segunda prueba** tiene exito solo la primera vez que se ejecuta. Al ejecutarse por segunda vez la **prueba no pasa** debido a que el producto que se ingresa ya existe en el sistema (el sistema no permite ingresar un producto ya existente).
 
+## Más información sobre las pruebas:
+
+Las pruebas automatizadas implementadas son las pruebas 2 y 4 del siguiente docs: https://docs.google.com/spreadsheets/d/1THldIyBkLkNPiowI5KlkxHXDWhEEz9094cBU9fihxQg/edit#gid=812846169
 
